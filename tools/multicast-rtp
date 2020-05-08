@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 #!/usr/bin/python3
 #
 # Tiny SAT>IP client which activates multicast streaming.
@@ -5,7 +12,8 @@
 # Use command line parameters of
 # Create /etc/sysconfig/multicast file with syntax:
 #
-# <mport>:<satip-params>
+# <
+mport>:<satip-params>
 #
 # You can modify this file when the program is active and
 # reload the configuration using the SIGHUP signal.
